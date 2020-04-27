@@ -1,0 +1,7 @@
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\bin\Debug\ExquisiteCorpse_Game.exe.config
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\bin\Debug\ExquisiteCorpse_Game.exe
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\bin\Debug\ExquisiteCorpse_Game.pdb
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\obj\Debug\ExquisiteCorpse_Game.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\obj\Debug\ExquisiteCorpse_Game.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\obj\Debug\ExquisiteCorpse_Game.exe
+C:\Users\Nacho\source\repos\ExquisiteCorpse_Game\ExquisiteCorpse_Game\obj\Debug\ExquisiteCorpse_Game.pdb
